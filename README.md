@@ -28,9 +28,9 @@ You can click the Preview link to take a look at your changes.
 
 - 👯 I’m looking to collaborate with other developers & creators **.**
 
-- 🥅 2023 Goals: Contribute more to Open Source projects **.**
+- 🥅 2024 Goals: Contribute more to Open Source projects**.**
 
-- 💬 Ask me about **C, C++,HTML**
+- 💬 Ask me about **Flutter,Dart,C, C++,HTML**
 
 - ⚡ Fun fact **When I am not working I usually spend my time in kitchen To cook something delicious.🥘🍝**
 
