@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 Working on <a href="https://github.com/gravity-coding" target="_blank">EBook Hub</a>
 
-- 🌱 I’m currently learning  **Linux 😁**
+- 🌱 I’m currently learning  **Flutter 🐦**
 
 - 👯 I’m looking to collaborate with other developers & creators **.**
 
