@@ -1,8 +1,8 @@
 <!--- 👋 Hi, I’m KD
 - 👀 I’m interested in WEBDEVILOPMENT
 - 🌱 I’m currently learning CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... --->
+- 💞️ I’m looking to collaborate on ...                                                 
+- 📫 How to reach me ... --->                                                        
 
 <!---
 KD2222/KD2222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,9 +34,9 @@ You can click the Preview link to take a look at your changes.
 
 - ⚡ Fun fact **When I am not working I usually spend my time in kitchen To cook something delicious.🥘🍝**
 
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
+
+
+<img align="center" width="540" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
 
 ###
 
@@ -91,6 +91,11 @@ You can click the Preview link to take a look at your changes.
  
 </p>
 
+<a href="https://git-scm.com/">
+ <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" />
+</a>
 
-
+<a href="">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" />
+</a>
 
