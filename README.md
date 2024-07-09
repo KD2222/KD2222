@@ -9,23 +9,20 @@ KD2222/KD2222 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-<!-- 
 
 <img align="left" src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif" width="310" alt="hellogif">
- -->
-
  <h1 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40"/>  I'm <a href=# target="_blank">Krunal</a>. Nice to see you.🤗 </h1> 
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
+<h3 align="center">A passionate developer ♻️</h3>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wasimfaiz&label=Profile%20views&color=0e75b6&style=flat" alt="wasimfaiz" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kd_1720" target="blank"><img src="https://img.shields.io/twitter/follow/KD?logo=twitter&style=for-the-badge" alt="amarjeet" /></a> </p>
 
 - 🔭 Working on <a href="https://github.com/gravity-coding" target="_blank">EBook Hub</a>
-                                                                                                       <!-- <img align="center" width="540" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"> -->
 
 - 🌱 I’m currently learning  **Flutter 🐦**
 
@@ -33,10 +30,13 @@ You can click the Preview link to take a look at your changes.
 
 - 🥅 2024 Goals: Contribute more to Open Source projects**.**
 
-- 💬 Ask me about **C, C++,HTML,CSS,JS**
+- 💬 Ask me about **Flutter,Dart,C, C++,HTML**
 
 - ⚡ Fun fact **When I am not working I usually spend my time in kitchen To cook something delicious.🥘🍝**
 
+
+
+<img align="center" width="540" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
 
 ###
 
@@ -88,7 +88,7 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 <p align="left"> 
- 
+  
 </p>
 
 <a href="https://git-scm.com/">
@@ -96,6 +96,11 @@ You can click the Preview link to take a look at your changes.
 </a>
 
 <a href="">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" />
+<img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" />
 </a>
+
+<a href="">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" />
+</a>
+
 
