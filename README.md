@@ -12,8 +12,6 @@ You can click the Preview link to take a look at your changes.
  <h1 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40"/>  I'm <a href=# target="_blank">Krunal</a>. Nice to see you.🤗 </h1> 
 
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-
 <p align="left"> <a href="https://twitter.com/kd_1720" target="blank"><img src="https://img.shields.io/twitter/follow/KD?logo=twitter&style=for-the-badge" alt="amarjeet" /></a> </p>
 
 - 🔭 Working on <a href="https://github.com/gravity-coding" target="_blank"></a>
