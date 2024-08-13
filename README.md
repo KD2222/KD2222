@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 
 - 💬 Ask me about **C, C++,HTML,CSS,JS,Node-JS**
 
-- ⚡ Fun fact **When I am not working I usually spend my time in kitchen To cook something delicious.🥘🍝**
+- ⚡ Fun fact **When I am not working I usually spend my time to read books 📚**
 
 
 
