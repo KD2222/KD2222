@@ -1,55 +1,51 @@
-<!--- 👋 Hi, I’m KD
-- 👀 I’m interested in WEBDEVILOPMENT
-- 🌱 I’m currently learning CSS
-- 💞️ I’m looking to collaborate on ...                                                 
-- 📫 How to reach me ... --->                                                        
+# Hi there, I'm KD2222 👋
 
-<!---
-KD2222/KD2222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile!
 
- <h1 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40"/>  I'm <a href=# target="_blank">Krunal</a>. Nice to see you.🤗 </h1> 
+---
 
+## 🚀 About Me
 
-<p align="left"> <a href="https://twitter.com/kd_1720" target="blank"><img src="https://img.shields.io/twitter/follow/KD?logo=twitter&style=for-the-badge" alt="amarjeet" /></a> </p>
+- 🌱 I’m currently learning **Web Development**
+- 👯 I’m looking to collaborate with other developers & creators
+- 🥅 **2025 Goals:** Contribute to Open Source projects
+- 💬 Ask me about: **C, C++, HTML, CSS, JS, Node.js**
+- ⚡ **Fun fact:** When I am not working, I usually spend my time reading books 📚
 
-- 🔭 Working on Project. <a href="https://github.com/gravity-coding" target="_blank"></a>
+---
 
-- 🌱 I’m currently learning  WEb.
+## 🛠️ Tech Stack
 
-- 👯 I’m looking to collaborate with other developers & creators **.**
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 
-- 🥅 2025 Goals: Contribute to Open Source projects **.**
+---
 
-- 💬 Ask me about **C, C++,HTML,CSS,JS,Node-JS**.
+## 📚 Currently Learning
 
-- ⚡ Fun fact **When I am not working I usually spend my time to read books. 📚**
+- Web Development (Frontend & Backend)
+- Cloud Computing with AWS
 
+---
 
+## 📫 Let's Connect!
 
-<img align="center" width="540" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
-
-###
-
-###
-
-<div align="center">
-  
-</div>
-
-###
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-
+<!-- Optionally add your social links below -->
+<!-- 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](YOUR-LINKEDIN)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](YOUR-TWITTER)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=firefox-browser&logoColor=white&style=flat-square)](YOUR-PORTFOLIO)
+-->
 
 <a href="https://twitter.com/kd_1720" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thesiyhbrand" height="30" width="40" />
 </a>
 
-</p>
+---
 
-# 💻 Tech Stack:
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+Thanks for stopping by! ⭐️
