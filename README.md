@@ -14,17 +14,17 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://twitter.com/kd_1720" target="blank"><img src="https://img.shields.io/twitter/follow/KD?logo=twitter&style=for-the-badge" alt="amarjeet" /></a> </p>
 
-- 🔭 Working on <a href="https://github.com/gravity-coding" target="_blank"></a>
+- 🔭 Working on Project. <a href="https://github.com/gravity-coding" target="_blank"></a>
 
-- 🌱 I’m currently learning  **WEb**
+- 🌱 I’m currently learning  WEb.
 
 - 👯 I’m looking to collaborate with other developers & creators **.**
 
-- 🥅 2024 Goals: Contribute more to Open Source projects **.**
+- 🥅 2025 Goals: Contribute to Open Source projects **.**
 
-- 💬 Ask me about **C, C++,HTML,CSS,JS,Node-JS**
+- 💬 Ask me about **C, C++,HTML,CSS,JS,Node-JS**.
 
-- ⚡ Fun fact **When I am not working I usually spend my time to read books 📚**
+- ⚡ Fun fact **When I am not working I usually spend my time to read books. 📚**
 
 
 
